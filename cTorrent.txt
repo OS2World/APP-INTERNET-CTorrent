@@ -1,0 +1,28 @@
+                          Upload Information Template for Hobbes.nmsu.edu
+                          ===============================================
+
+        Archive Filename: CTorrent.zip
+       Short Description: CTorrent v1.3.2 b2
+
+
+        Long Description: CTorrent is a BitTorrent(be know as BT usually) Client program by C for FreeBSD and Linux. Fast and small are CTorrent`s two strengths. http://ctorrent.sourceforge.net/
+      Proposed directory
+           for placement: /pub/os2/apps/internet/misc
+
+               Your name: 
+           Email address: 
+    Program contact name: (same)
+   Program contact email: (same)
+             Program URL: 
+
+      Would you like the
+   contact email address
+    included in listings? no
+
+Operating System/Version: OS/2 Warp etc.
+ Additional requirements: 
+
+                Replaces: /pub/os2/apps/internet/misc/ctorrent.zip
+
+
+
